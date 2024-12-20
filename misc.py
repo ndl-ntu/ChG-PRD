@@ -4,7 +4,6 @@ Author:          Jia-Yi LI
 Last Modified:   2024-12-20
 Version:         1.0
 Description:     Miscellaneous utilities.
-License:         MIT License
                  Copyright (c) 2024 Nanyang Technological University
 """
 

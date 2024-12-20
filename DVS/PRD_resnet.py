@@ -4,7 +4,6 @@ Author:          Xiao-Yu LIN
 Last Modified:   2024-12-20
 Version:         1.0
 Description:     Classification readout layer for DVS tasks.
-License:         MIT License
                  Copyright (c) 2024 Nanyang Technological University
 """
 

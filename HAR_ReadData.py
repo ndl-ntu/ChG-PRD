@@ -4,7 +4,6 @@ Author:          Jia-Yi LI
 Last Modified:   2024-12-20
 Version:         1.0
 Description:     Read experimental data of MNIST and Fashion-MNIST from physical reservoir devices.
-License:         MIT License
                  Copyright (c) 2024 Nanyang Technological University
 """
 import numpy as np
